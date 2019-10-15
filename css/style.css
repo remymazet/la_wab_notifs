@@ -1,0 +1,38 @@
+.head img{
+	margin: 20px 0;
+}
+hr.style13 {
+	height: 10px;
+	border: 0;
+	box-shadow: 0 10px 10px -10px #8c8b8b inset;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+	background-color: #6ca368!important;
+}
+.nav-pills .nav-link {
+    color: #d4d4d4;
+}
+.notifs{
+	padding: 20px;
+	background-color: white;
+	border-radius: 5px;
+	box-shadow: 0px 0px 18px -7px rgba(0,0,0,0.25);
+	margin: 10px 0;
+
+}
+.paragraphe{
+	opacity: 0;
+	transition: all 0.4s ease;
+}
+.notifs:hover .paragraphe{
+	opacity: 1;
+}
+.notifs img{
+	border-radius: 50%;
+}
+.nav-test{
+	margin: 30px 0 50px 0;
+}
+.box-notifs{
+	margin: 40px 0;
+}
